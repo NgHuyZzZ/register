@@ -1,12 +1,12 @@
 {
     "description": "Project Description",
 
-    "domain": "is-not-a.dev",
-    "subdomain": "example",
+    "domain": "is-cool.dev",
+    "subdomain": "zaptomc",
 
     "owner": {
-        "repo": "https://github.com/username/repo",
-        "email": "hello@example.com"
+        "repo": "https://github.com/NgHuyZzZ/register",
+        "email": "ngminhhuy666@gmail.com"
     },
 
     "record": {
@@ -14,7 +14,7 @@
         "AAAA": ["::1", "::2"],
         "CNAME": "example.com",
         "MX": ["mx1.example.com", "mx2.example.com"],
-        "NS": ["ns1.example.com", "ns2.example.com"],
+        "NS": ["sima.ns.cloudflare.com", "arch.ns.cloudflare.com"],
         "TXT": ["example_verification=1234567890"]
     },
 
