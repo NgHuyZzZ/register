@@ -1,0 +1,22 @@
+{
+    "description": "Project Description",
+
+    "domain": "is-not-a.dev",
+    "subdomain": "example",
+
+    "owner": {
+        "repo": "https://github.com/username/repo",
+        "email": "hello@example.com"
+    },
+
+    "record": {
+        "A": ["1.1.1.1", "1.0.0.1"],
+        "AAAA": ["::1", "::2"],
+        "CNAME": "free02.123host.vn",
+        "MX": ["mx1.example.com", "mx2.example.com"],
+        "NS": ["sima.ns.cloudflare.com", "arch.ns.cloudflare.com"],
+        "TXT": ["example_verification=1234567890"]
+    },
+
+    "proxied": false
+}
